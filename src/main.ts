@@ -1,6 +1,6 @@
 import "./style.css";
-import { MainClass } from "./mainClass";
+import { Itheum } from "./itheum";
 
 window.onload = () => {
-  new MainClass(document.getElementsByClassName("viewport")[0] as HTMLElement, 100, 100);
+  new Itheum(document.getElementsByClassName("viewport")[0] as HTMLElement, 1500, 2000);
 };
