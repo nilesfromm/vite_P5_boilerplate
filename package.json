@@ -1,7 +1,7 @@
 {
-  "name": "itheum_v2",
+  "name": "vite_p5_boilerplate",
   "version": "0.0.0",
-  "main": "src/itheum.ts",
+  "main": "src/mainClass",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
